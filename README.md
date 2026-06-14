@@ -1,15 +1,16 @@
 # Hi there,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px" width="40px"> I'm Yash Parahar  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/>
-I'm 21 years old `dynamic Full Stack Web Developer` From India.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> [![Github](https://img.shields.io/github/followers/amritmaurya1504?label=Follow%20Me&style=social)](https://github.com/amritmaurya1504)
+I'm 21 years old `dynamic Full Stack Web Developer` From India.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> [![Github](https://img.shields.io/github/followers/Alpha-prime250?label=Follow%20Me&style=social)](https://github.com/Alpha-prime250)
 
  [![Portfolio | Amrit Raj](https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https://programmingwithamrit.com/)](https://programmingwithamrit.com/)
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-Amrit%20Raj-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/rajamrit15/)
-[![Mail](https://img.shields.io/badge/Gmail-amrit.raj1504@gmail.com-red?logo=Gmail&logoColor=red&labelColor=black)](mailto:yahparashar473@gmail.com)
-<br>
-[![LeetCode](https://img.shields.io/badge/LeetCode-rajamrit_15-orange?logo=leetcode&logoColor=orange&labelColor=black)](https://leetcode.com/u/rajamrit_15/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Yash%20Parashar-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/yash-parashar-104268350/)
 
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-rajamrit15-green?logo=geeksforgeeks&logoColor=green&labelColor=black)](https://auth.geeksforgeeks.org/user/rajamrit15/practice/)
-[![Instagram](https://img.shields.io/badge/Instagram-rajamrit_15-purple?logo=instagram&logoColor=purple&labelColor=black)](https://www.instagram.com/rajamrit_15/)
+[![Mail](https://img.shields.io/badge/Gmail-yashparashar473%40gmail.com-red?logo=Gmail&logoColor=red&labelColor=black)](mailto:yashparashar473@gmail.com)
+
+<br>
+
+
+[![Instagram](https://img.shields.io/badge/Instagram-yashparashar632-purple?logo=instagram&logoColor=purple&labelColor=black)](https://www.instagram.com/yashparashar632/)
 
 
 ## 🌟 `Exploring the World of Code`
@@ -25,12 +26,12 @@ I'm 21 years old `dynamic Full Stack Web Developer` From India.<img src="https:/
 
 | 💻 **Technology** | 🚀 **Projects** |
 | - | - |
-| [![Java](https://img.shields.io/static/v1?label=&message=Java&color=007396&logo=java&logoColor=FFFFFF)](https://www.oracle.com/java/) [![Spring Boot](https://img.shields.io/static/v1?label=&message=Spring%20Boot&color=6DB33F&logo=springboot&logoColor=FFFFFF)](https://spring.io/projects/spring-boot) [![Spring Security](https://img.shields.io/static/v1?label=&message=Spring%20Security&color=6DB33F&logo=springsecurity&logoColor=FFFFFF)](https://spring.io/projects/spring-security) [![React](https://img.shields.io/static/v1?label=&message=React&color=61DAFB&logo=React&logoColor=FFFFFF)](https://reactjs.org/) [![RentEase React Query](https://img.shields.io/static/v1?label=&message=React%20Query&color=FF4154&logo=reactquery&logoColor=FFFFFF)](https://react-query.tanstack.com/) [![PostgreSQL](https://img.shields.io/static/v1?label=&message=PostgreSQL&color=4169E1&logo=postgresql&logoColor=FFFFFF)](https://www.postgresql.org/) | [![RentEase](https://img.shields.io/static/v1?label=&message=RentEase&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/amritmaurya1504/RentEase) | |
+| [![React](https://img.shields.io/static/v1?label=&message=React&color=61DAFB&logo=React&logoColor=FFFFFF)](https://reactjs.org/) [![RentEase React Query](https://img.shields.io/static/v1?label=&message=React%20Query&color=FF4154&logo=reactquery&logoColor=FFFFFF)](https://react-query.tanstack.com/) [![PostgreSQL](https://img.shields.io/static/v1?label=&message=PostgreSQL&color=4169E1&logo=postgresql&logoColor=FFFFFF)](https://www.postgresql.org/) |
 | [![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF)](https://nodejs.org/en/) [![Next.js](https://img.shields.io/static/v1?label=&message=Next.js&color=000000&logo=nextdotjs&logoColor=FFFFFF)](https://nextjs.org/) [![Mapbox](https://img.shields.io/static/v1?label=&message=Mapbox&color=000000&logo=mapbox&logoColor=FFFFFF)](https://www.mapbox.com/) [![Redis](https://img.shields.io/static/v1?label=&message=Redis&color=DC382D&logo=redis&logoColor=FFFFFF)](https://redis.io/) [![Docker](https://img.shields.io/static/v1?label=&message=Docker&color=2496ED&logo=docker&logoColor=FFFFFF)](https://www.docker.com/) | [![VEGFRU](https://img.shields.io/static/v1?label=&message=VEGFRU-An-Online-Vegetables-Fruits-Marketplace&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/amritmaurya1504/VEGFRU-An-Online-Vegetables-Fruits-Marketplace) [![VegFru Demo](https://img.shields.io/static/v1?label=&message=VegFru-Video-Demo&color=000605&logo=YouTube&logoColor=FFFFFF&labelColor=FF0000)](https://youtu.be/zFLqVK3Hoj4?si=dO3sTnCOk8xZkz0L) |
-| [![TypeScript](https://img.shields.io/static/v1?label=&message=TypeScript&color=007ACC&logo=typescript&logoColor=FFFFFF)](https://www.typescriptlang.org/) [![WebRTC](https://img.shields.io/static/v1?label=&message=WebRTC&color=33A1FD&logo=webrtc&logoColor=FFFFFF)](https://webrtc.org/) [![MongoDB](https://img.shields.io/static/v1?label=&message=MongoDB&color=47A248&logo=mongodb&logoColor=FFFFFF)](https://www.mongodb.com/) | [![JamPod](https://img.shields.io/static/v1?label=&message=JamPod&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/amritmaurya1504/JamPod) [![JamPod Demo](https://img.shields.io/static/v1?label=&message=JamPod-Video-Demo&color=FF0000&logo=YouTube&logoColor=FFFFFF&labelColor=FF0000)](https://youtu.be/i8RUWx9heY8) |
-| [![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=javascript&logoColor=000000)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![Socket.io](https://img.shields.io/static/v1?label=&message=Socket.io&color=010101&logo=socket.io&logoColor=FFFFFF)](https://socket.io/) | [![ChitChat](https://img.shields.io/static/v1?label=&message=ChitChat&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/amritmaurya1504/Chit_Chat) [![ChitChat Demo](https://img.shields.io/static/v1?label=&message=ChitChat-Video-Demo&color=FF0000&logo=YouTube&logoColor=FFFFFF&labelColor=FF0000)](https://youtu.be/m9yUiGvFrTU) |
-| [![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=javascript&logoColor=000000)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![Socket.io](https://img.shields.io/static/v1?label=&message=Socket.io&color=010101&logo=socket.io&logoColor=FFFFFF)](https://socket.io/) [![React](https://img.shields.io/static/v1?label=&message=React&color=61DAFB&logo=React&logoColor=FFFFFF)](https://reactjs.org/) [![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF)](https://nodejs.org/en/) [![MongoDB](https://img.shields.io/static/v1?label=&message=MongoDB&color=47A248&logo=mongodb&logoColor=FFFFFF)](https://www.mongodb.com/) [![Concurrency](https://img.shields.io/static/v1?label=&message=Concurrency&color=010101&logo=socket.io&logoColor=FFFFFF)](https://www.razorpay.com/) [![Concurrency](https://img.shields.io/static/v1?label=&message=Razorpay&color=010101&logo=socket.io&logoColor=FFFFFF)](https://www.mongodb.com/) | [![BookMyScreen](https://img.shields.io/static/v1?label=&message=BookMyScreen&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/amritmaurya1504/bookMyScreen) [![BookMyScreen Demo](https://img.shields.io/static/v1?label=&message=BookMyScreen-Tutorial&color=FF0000&logo=YouTube&logoColor=FFFFFF&labelColor=FF0000)](https://www.youtube.com/playlist?list=PL9OdiypqS7NlD84nIN-rAh9D-LtzNi10R) |
-[![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=javascript&logoColor=000000)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)[![React](https://img.shields.io/static/v1?label=&message=React&color=61DAFB&logo=React&logoColor=FFFFFF)](https://reactjs.org/) [![RentEase React Query](https://img.shields.io/static/v1?label=&message=React%20Query&color=FF4154&logo=reactquery&logoColor=FFFFFF)](https://react-query.tanstack.com/)[![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF)](https://nodejs.org/en/) [![MongoDB](https://img.shields.io/static/v1?label=&message=MongoDB&color=47A248&logo=mongodb&logoColor=FFFFFF)](https://www.mongodb.com/) [![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)](https://redux.js.org/)  | [![POS System](https://img.shields.io/static/v1?label=&message=POS-System&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/amritmaurya1504/Restaurant_POS_System) [![POS System Demo Demo](https://img.shields.io/static/v1?label=&message=POS-System-Tutorial&color=FF0000&logo=YouTube&logoColor=FFFFFF&labelColor=FF0000)](https://www.youtube.com/playlist?list=PL9OdiypqS7Nk0DHnSNFIi8RgEFJCIWB6X) 
+ [![MongoDB](https://img.shields.io/static/v1?label=&message=MongoDB&color=47A248&logo=mongodb&logoColor=FFFFFF)](https://www.mongodb.com/) 
+| [![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=javascript&logoColor=000000)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![Socket.io](https://img.shields.io/static/v1?label=&message=Socket.io&color=010101&logo=socket.io&logoColor=FFFFFF)](https://socket.io/) |
+| [![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=javascript&logoColor=000000)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![Socket.io](https://img.shields.io/static/v1?label=&message=Socket.io&color=010101&logo=socket.io&logoColor=FFFFFF)](https://socket.io/) [![React](https://img.shields.io/static/v1?label=&message=React&color=61DAFB&logo=React&logoColor=FFFFFF)](https://reactjs.org/) [![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF)](https://nodejs.org/en/) [![MongoDB](https://img.shields.io/static/v1?label=&message=MongoDB&color=47A248&logo=mongodb&logoColor=FFFFFF)](https://www.mongodb.com/) 
+[![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=javascript&logoColor=000000)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)[![React](https://img.shields.io/static/v1?label=&message=React&color=61DAFB&logo=React&logoColor=FFFFFF)](https://reactjs.org/) 
 |
 
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
@@ -42,15 +43,15 @@ I'm 21 years old `dynamic Full Stack Web Developer` From India.<img src="https:/
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 ```javascript
-const amrit = {
+const Yash = {
   pronouns: "he" | "him",
   code: [Java, Javascript, Typescript, HTML, CSS, SQL, Data Structures & Algorithm, Problem Solving, System design],
-  frontend: [React, Next, Redux, React-Query, tailwind, bootstrap],
-  backend: [nodejs, express, spring, springBoot],
+  frontend: [React, Next, React-Query, tailwind, bootstrap],
+  backend: [nodejs, express],
   databases : [MySQL, MonogoDB, Postgres],
-  tools: [Git, Github, VSCode, Docker, Apache Kafka],
+  tools: [Git, Github, VSCode, Docker],
   cs: [OOPS, DBMS, Operating System, Computer Networks],
-  genAi: [Spring AI, RAG, Tool Calling, MCP, LLM API Integration],
+  genAi: [ RAG, LLM API Integration],
 }
 ```
 
