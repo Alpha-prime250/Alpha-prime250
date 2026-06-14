@@ -1,22 +1,59 @@
-# 💫 About Me:
-I'm Currently Working On Food Delivery Website<br>
+# Hi there,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px" width="40px"> I'm Yah Parahar  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/>
+I'm 21 years old `dynamic Full Stack Web Developer` From India.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> [![Github](https://img.shields.io/github/followers/amritmaurya1504?label=Follow%20Me&style=social)](https://github.com/amritmaurya1504)
+
+ [![Portfolio | Amrit Raj](https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https://programmingwithamrit.com/)](https://programmingwithamrit.com/)
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Amrit%20Raj-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/rajamrit15/)
+[![Mail](https://img.shields.io/badge/Gmail-amrit.raj1504@gmail.com-red?logo=Gmail&logoColor=red&labelColor=black)](mailto:yahparashar473@gmail.com)
+<br>
+[![LeetCode](https://img.shields.io/badge/LeetCode-rajamrit_15-orange?logo=leetcode&logoColor=orange&labelColor=black)](https://leetcode.com/u/rajamrit_15/)
+
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-rajamrit15-green?logo=geeksforgeeks&logoColor=green&labelColor=black)](https://auth.geeksforgeeks.org/user/rajamrit15/practice/)
+[![Instagram](https://img.shields.io/badge/Instagram-rajamrit_15-purple?logo=instagram&logoColor=purple&labelColor=black)](https://www.instagram.com/rajamrit_15/)
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yashparashar632) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-parashar-104268350?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yashparashar473@gmail.com) 
+## 🌟 `Exploring the World of Code`
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Airbnb](https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=for-the-badge&logo=Airbnb&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Alpha-prime250&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Alpha-prime250&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Alpha-prime250&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🌱 Lifelong Learner | 💻 Self-Taught Full Stack Developer | 🎵 Music Enthusiast. <br />
+👯 I'm open to collaborations with fellow content creators and developers. <br />
+🥅 My goal: To be a skilled Engineer 👨‍💻. <br />
 
----
-[![](https://komarev.com/ghpvc/?username=Alpha-prime250&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Yash Parashar) 
+<!-- START OF PROFILE STACK, DO NOT REMOVE -->
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🌟 Top Projects & Tech Mastery 🚀
+
+| 💻 **Technology** | 🚀 **Projects** |
+| - | - |
+| [![Java](https://img.shields.io/static/v1?label=&message=Java&color=007396&logo=java&logoColor=FFFFFF)](https://www.oracle.com/java/) [![Spring Boot](https://img.shields.io/static/v1?label=&message=Spring%20Boot&color=6DB33F&logo=springboot&logoColor=FFFFFF)](https://spring.io/projects/spring-boot) [![Spring Security](https://img.shields.io/static/v1?label=&message=Spring%20Security&color=6DB33F&logo=springsecurity&logoColor=FFFFFF)](https://spring.io/projects/spring-security) [![React](https://img.shields.io/static/v1?label=&message=React&color=61DAFB&logo=React&logoColor=FFFFFF)](https://reactjs.org/) [![RentEase React Query](https://img.shields.io/static/v1?label=&message=React%20Query&color=FF4154&logo=reactquery&logoColor=FFFFFF)](https://react-query.tanstack.com/) [![PostgreSQL](https://img.shields.io/static/v1?label=&message=PostgreSQL&color=4169E1&logo=postgresql&logoColor=FFFFFF)](https://www.postgresql.org/) | [![RentEase](https://img.shields.io/static/v1?label=&message=RentEase&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/amritmaurya1504/RentEase) | |
+| [![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF)](https://nodejs.org/en/) [![Next.js](https://img.shields.io/static/v1?label=&message=Next.js&color=000000&logo=nextdotjs&logoColor=FFFFFF)](https://nextjs.org/) [![Mapbox](https://img.shields.io/static/v1?label=&message=Mapbox&color=000000&logo=mapbox&logoColor=FFFFFF)](https://www.mapbox.com/) [![Redis](https://img.shields.io/static/v1?label=&message=Redis&color=DC382D&logo=redis&logoColor=FFFFFF)](https://redis.io/) [![Docker](https://img.shields.io/static/v1?label=&message=Docker&color=2496ED&logo=docker&logoColor=FFFFFF)](https://www.docker.com/) | [![VEGFRU](https://img.shields.io/static/v1?label=&message=VEGFRU-An-Online-Vegetables-Fruits-Marketplace&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/amritmaurya1504/VEGFRU-An-Online-Vegetables-Fruits-Marketplace) [![VegFru Demo](https://img.shields.io/static/v1?label=&message=VegFru-Video-Demo&color=000605&logo=YouTube&logoColor=FFFFFF&labelColor=FF0000)](https://youtu.be/zFLqVK3Hoj4?si=dO3sTnCOk8xZkz0L) |
+| [![TypeScript](https://img.shields.io/static/v1?label=&message=TypeScript&color=007ACC&logo=typescript&logoColor=FFFFFF)](https://www.typescriptlang.org/) [![WebRTC](https://img.shields.io/static/v1?label=&message=WebRTC&color=33A1FD&logo=webrtc&logoColor=FFFFFF)](https://webrtc.org/) [![MongoDB](https://img.shields.io/static/v1?label=&message=MongoDB&color=47A248&logo=mongodb&logoColor=FFFFFF)](https://www.mongodb.com/) | [![JamPod](https://img.shields.io/static/v1?label=&message=JamPod&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/amritmaurya1504/JamPod) [![JamPod Demo](https://img.shields.io/static/v1?label=&message=JamPod-Video-Demo&color=FF0000&logo=YouTube&logoColor=FFFFFF&labelColor=FF0000)](https://youtu.be/i8RUWx9heY8) |
+| [![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=javascript&logoColor=000000)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![Socket.io](https://img.shields.io/static/v1?label=&message=Socket.io&color=010101&logo=socket.io&logoColor=FFFFFF)](https://socket.io/) | [![ChitChat](https://img.shields.io/static/v1?label=&message=ChitChat&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/amritmaurya1504/Chit_Chat) [![ChitChat Demo](https://img.shields.io/static/v1?label=&message=ChitChat-Video-Demo&color=FF0000&logo=YouTube&logoColor=FFFFFF&labelColor=FF0000)](https://youtu.be/m9yUiGvFrTU) |
+| [![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=javascript&logoColor=000000)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![Socket.io](https://img.shields.io/static/v1?label=&message=Socket.io&color=010101&logo=socket.io&logoColor=FFFFFF)](https://socket.io/) [![React](https://img.shields.io/static/v1?label=&message=React&color=61DAFB&logo=React&logoColor=FFFFFF)](https://reactjs.org/) [![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF)](https://nodejs.org/en/) [![MongoDB](https://img.shields.io/static/v1?label=&message=MongoDB&color=47A248&logo=mongodb&logoColor=FFFFFF)](https://www.mongodb.com/) [![Concurrency](https://img.shields.io/static/v1?label=&message=Concurrency&color=010101&logo=socket.io&logoColor=FFFFFF)](https://www.razorpay.com/) [![Concurrency](https://img.shields.io/static/v1?label=&message=Razorpay&color=010101&logo=socket.io&logoColor=FFFFFF)](https://www.mongodb.com/) | [![BookMyScreen](https://img.shields.io/static/v1?label=&message=BookMyScreen&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/amritmaurya1504/bookMyScreen) [![BookMyScreen Demo](https://img.shields.io/static/v1?label=&message=BookMyScreen-Tutorial&color=FF0000&logo=YouTube&logoColor=FFFFFF&labelColor=FF0000)](https://www.youtube.com/playlist?list=PL9OdiypqS7NlD84nIN-rAh9D-LtzNi10R) |
+[![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=javascript&logoColor=000000)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)[![React](https://img.shields.io/static/v1?label=&message=React&color=61DAFB&logo=React&logoColor=FFFFFF)](https://reactjs.org/) [![RentEase React Query](https://img.shields.io/static/v1?label=&message=React%20Query&color=FF4154&logo=reactquery&logoColor=FFFFFF)](https://react-query.tanstack.com/)[![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF)](https://nodejs.org/en/) [![MongoDB](https://img.shields.io/static/v1?label=&message=MongoDB&color=47A248&logo=mongodb&logoColor=FFFFFF)](https://www.mongodb.com/) [![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)](https://redux.js.org/)  | [![POS System](https://img.shields.io/static/v1?label=&message=POS-System&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/amritmaurya1504/Restaurant_POS_System) [![POS System Demo Demo](https://img.shields.io/static/v1?label=&message=POS-System-Tutorial&color=FF0000&logo=YouTube&logoColor=FFFFFF&labelColor=FF0000)](https://www.youtube.com/playlist?list=PL9OdiypqS7Nk0DHnSNFIi8RgEFJCIWB6X) 
+|
+
+<!-- END OF PROFILE STACK, DO NOT REMOVE -->
+
+
+
+
+
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+```javascript
+const amrit = {
+  pronouns: "he" | "him",
+  code: [Java, Javascript, Typescript, HTML, CSS, SQL, Data Structures & Algorithm, Problem Solving, System design],
+  frontend: [React, Next, Redux, React-Query, tailwind, bootstrap],
+  backend: [nodejs, express, spring, springBoot],
+  databases : [MySQL, MonogoDB, Postgres],
+  tools: [Git, Github, VSCode, Docker, Apache Kafka],
+  cs: [OOPS, DBMS, Operating System, Computer Networks],
+  genAi: [Spring AI, RAG, Tool Calling, MCP, LLM API Integration],
+}
+```
+
+
+
+
