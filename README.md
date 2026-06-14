@@ -1,4 +1,4 @@
-# Hi there,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px" width="40px"> I'm Yah Parahar  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/>
+# Hi there,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px" width="40px"> I'm Yash Parahar  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/>
 I'm 21 years old `dynamic Full Stack Web Developer` From India.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> [![Github](https://img.shields.io/github/followers/amritmaurya1504?label=Follow%20Me&style=social)](https://github.com/amritmaurya1504)
 
  [![Portfolio | Amrit Raj](https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https://programmingwithamrit.com/)](https://programmingwithamrit.com/)
