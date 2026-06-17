@@ -45,7 +45,7 @@ I'm 21 years old `dynamic Full Stack Web Developer` From India.<img src="https:/
 ```javascript
 const Yash = {
   pronouns: "he" | "him",
-  code: [Java, Javascript, Typescript, HTML, CSS, SQL, Data Structures & Algorithm, Problem Solving, System design],
+  code: [ Javascript, Typescript, HTML, CSS, SQL, Data Structures & Algorithm, Problem Solving, System design],
   frontend: [React, Next, React-Query, tailwind, bootstrap],
   backend: [nodejs, express],
   databases : [MySQL, MonogoDB, Postgres],
