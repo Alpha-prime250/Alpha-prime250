@@ -1,7 +1,7 @@
 # Hi there,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px" width="40px"> I'm Yash Parahar  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/>
 I'm 21 years old `dynamic Full Stack Web Developer` From India.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> [![Github](https://img.shields.io/github/followers/Alpha-prime250?label=Follow%20Me&style=social)](https://github.com/Alpha-prime250)
 
-// [![Portfolio | Yash Parashar]
+ [![Portfolio | Yash Parashar]
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Yash%20Parashar-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/yash-parashar-104268350/)
 
